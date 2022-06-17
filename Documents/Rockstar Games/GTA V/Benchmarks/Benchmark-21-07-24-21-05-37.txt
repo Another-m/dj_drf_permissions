@@ -1,0 +1,159 @@
+Frames Per Second (Higher is better) Min, Max, Avg
+Pass 0, 10.223350, 61.035530, 15.207768
+Pass 1, 7.168119, 61.408840, 14.212460
+Pass 2, 7.940163, 62.782520, 15.885385
+Pass 3, 9.933613, 63.088295, 17.064844
+Pass 4, 7.392725, 66.853409, 14.951192
+
+Time in milliseconds(ms). (Lower is better). Min, Max, Avg
+Pass 0, 16.383900, 97.815300, 65.755867
+Pass 1, 16.284300, 139.506607, 70.360802
+Pass 2, 15.928000, 125.942001, 62.950947
+Pass 3, 15.850801, 100.668312, 58.600006
+Pass 4, 14.958100, 135.268112, 66.884300
+
+Frames under 16ms (for 60fps): 
+Pass 0: 0/150 frames (0.00%)
+Pass 1: 0/147 frames (0.00%)
+Pass 2: 1/154 frames (0.65%)
+Pass 3: 1/160 frames (0.63%)
+Pass 4: 1/644 frames (0.16%)
+
+Frames under 33ms (for 30fps): 
+Pass 0: 2/150 frames (1.33%)
+Pass 1: 3/147 frames (2.04%)
+Pass 2: 2/154 frames (1.30%)
+Pass 3: 2/160 frames (1.25%)
+Pass 4: 4/644 frames (0.62%)
+
+Percentiles in ms for pass 0
+50%,	66.00
+75%,	76.00
+80%,	81.00
+85%,	83.00
+90%,	84.00
+91%,	84.00
+92%,	84.00
+93%,	85.00
+94%,	85.00
+95%,	85.00
+96%,	85.00
+97%,	86.00
+98%,	89.00
+99%,	91.00
+
+Percentiles in ms for pass 1
+50%,	74.00
+75%,	77.00
+80%,	78.00
+85%,	79.00
+90%,	80.00
+91%,	81.00
+92%,	82.00
+93%,	82.00
+94%,	84.00
+95%,	84.00
+96%,	91.00
+97%,	94.00
+98%,	124.00
+99%,	132.00
+
+Percentiles in ms for pass 2
+50%,	65.00
+75%,	72.00
+80%,	73.00
+85%,	74.00
+90%,	78.00
+91%,	80.00
+92%,	80.00
+93%,	81.00
+94%,	84.00
+95%,	91.00
+96%,	93.00
+97%,	105.00
+98%,	107.00
+99%,	112.00
+
+Percentiles in ms for pass 3
+50%,	59.00
+75%,	63.00
+80%,	64.00
+85%,	66.00
+90%,	72.00
+91%,	73.00
+92%,	73.00
+93%,	75.00
+94%,	75.00
+95%,	77.00
+96%,	78.00
+97%,	81.00
+98%,	82.00
+99%,	89.00
+
+Percentiles in ms for pass 4
+50%,	70.00
+75%,	82.00
+80%,	85.00
+85%,	87.00
+90%,	89.00
+91%,	89.00
+92%,	90.00
+93%,	91.00
+94%,	92.00
+95%,	93.00
+96%,	95.00
+97%,	96.00
+98%,	99.00
+99%,	102.00
+
+=== SYSTEM ===
+Windows 10 Pro 64-bit (6.2, Build 9200)
+DX Feature Level: 11.0
+Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz (8 CPUs), ~1.8GHz
+8192MB RAM
+Intel(R) UHD Graphics 620, 134MB, Driver Version Unknown
+Graphics Card Vendor Id 0x8086 with Device ID 0x5917
+
+=== SETTINGS ===
+Display: 1920x1080 (Windowed) @ 59Hz VSync ON
+Tessellation: 0
+LodScale: 0.000000
+PedLodBias: 0.000000
+VehicleLodBias: 0.000000
+ShadowQuality: 1
+ReflectionQuality: 1
+ReflectionMSAA: 0
+SSAO: 0
+AnisotropicFiltering: 0
+MSAA: 0
+MSAAFragments: 0
+MSAAQuality: 0
+SamplingMode: 0
+TextureQuality: 0
+ParticleQuality: 0
+WaterQuality: 0
+GrassQuality: 1
+ShaderQuality: 1
+Shadow_SoftShadows: 4
+UltraShadows_Enabled: false
+Shadow_ParticleShadows: false
+Shadow_Distance: 1.000000
+Shadow_LongShadows: false
+Shadow_SplitZStart: 0.930000
+Shadow_SplitZEnd: 0.890000
+Shadow_aircraftExpWeight: 0.990000
+Shadow_DisableScreenSizeCheck: false
+Reflection_MipBlur: true
+FXAA_Enabled: false
+TXAA_Enabled: false
+Lighting_FogVolumes: false
+Shader_SSA: true
+DX_Version: 2
+CityDensity: 0.000000
+PedVarietyMultiplier: 0.000000
+VehicleVarietyMultiplier: 0.000000
+PostFX: 0
+DoF: false
+HdStreamingInFlight: false
+MaxLodScale: 0.000000
+MotionBlurStrength: 0.000000
